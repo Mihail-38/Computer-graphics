@@ -1,0 +1,6 @@
+﻿  Lab1.cpp
+D:\Компьютерная графика\Project2\Project1\Project1\Lab1.cpp(74,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Shader.cpp
+D:\Компьютерная графика\Project2\Project1\Project1\Shader.cpp(62,42): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  Project1.vcxproj -> D:\Компьютерная графика\Project2\Project1\x64\Debug\Project1.exe
